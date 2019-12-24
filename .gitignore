@@ -1,0 +1,8 @@
+venv/
+*.tif
+catchment/Process/*
+__pycache__/
+.idea/
+.idea/*
+*.pyc
+.env

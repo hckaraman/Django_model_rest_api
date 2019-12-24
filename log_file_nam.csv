@@ -1,0 +1,5 @@
+[Errno 2] File b'path\\default\\Alihoca.csv' does not exist: b'path\\default\\Alihoca.csv'
+[Errno 2] File b'path\\default\\Alihoca.csv' does not exist: b'path\\default\\Alihoca.csv'
+[Errno 2] File b'path\\default\\Alihoca.csv' does not exist: b'path\\default\\Alihoca.csv'
+[Errno 2] File b'D:\\Github\\Django\\catchment\\file_uploads\\default\\Alihoca.csv' does not exist: b'D:\\Github\\Django\\catchment\\file_uploads\\default\\Alihoca.csv'
+Invalid file path or buffer object type: <class 'NoneType'>
